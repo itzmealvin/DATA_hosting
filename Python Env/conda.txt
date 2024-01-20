@@ -5,11 +5,14 @@ dask
 dask-ml
 findspark
 jupyterlab
-notebook
+lightgbm
 matplotlib
+nltk
+notebook
 numpy
 openpyxl
 pandas
+pandas-profiling
 plotly
 pycryptodome
 pymongo
@@ -17,6 +20,5 @@ pyspark
 scikit-learn
 scipy
 seaborn
-ydata-profiling
-tensorflow
-tensorflow-metal
+shap
+xgboost
